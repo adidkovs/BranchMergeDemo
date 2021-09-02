@@ -2,3 +2,4 @@ LANGUAGES TO LEARN
 ------------------
 * Rust
 * Go
+* Python
