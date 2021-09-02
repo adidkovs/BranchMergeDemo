@@ -2,3 +2,4 @@ SHOPPING LIST
 -------------
 * oats
 * broccoli
+* carrots
